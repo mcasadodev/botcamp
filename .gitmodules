@@ -1,0 +1,3 @@
+[submodule "@Framework"]
+	path = Botcamp/Assets/@Framework
+	url = https://github.com/Pixel-Paradise-OU/UnityFramework.git

@@ -75,21 +75,21 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-StickSwing/Assets/Editor Default Resources/
-StickSwing/Assets/Editor Default Resources.meta
-StickSwing/Assets/ExternalDependencyManager/
-StickSwing/Assets/ExternalDependencyManager.meta
-StickSwing/Assets/Firebase/
-StickSwing/Assets/Firebase.meta
-StickSwing/Assets/GeneratedLocalRepo/
-StickSwing/Assets/GeneratedLocalRepo.meta
-StickSwing/Assets/GoogleMobileAds/
-StickSwing/Assets/GoogleMobileAds.meta
-StickSwing/Assets/Plugins/
-StickSwing/Assets/Plugins.meta
-StickSwing/Assets/Samples/
-StickSwing/Assets/Samples.meta
-StickSwing/Assets/StreamingAssets/
-StickSwing/Assets/StreamingAssets.meta
-StickSwing/Assets/TextMesh Pro/
-StickSwing/Assets/TextMesh Pro.meta
+Botcamp/[Aa]ssets/Editor Default Resources/
+Botcamp/[Aa]ssets/Editor Default Resources.meta
+Botcamp/[Aa]ssets/ExternalDependencyManager/
+Botcamp/[Aa]ssets/ExternalDependencyManager.meta
+Botcamp/[Aa]ssets/Firebase/
+Botcamp/[Aa]ssets/Firebase.meta
+Botcamp/[Aa]ssets/GeneratedLocalRepo/
+Botcamp/[Aa]ssets/GeneratedLocalRepo.meta
+Botcamp/[Aa]ssets/GoogleMobileAds/
+Botcamp/[Aa]ssets/GoogleMobileAds.meta
+Botcamp/[Aa]ssets/Plugins/
+Botcamp/[Aa]ssets/Plugins.meta
+Botcamp/[Aa]ssets/Samples/
+Botcamp/[Aa]ssets/Samples.meta
+Botcamp/[Aa]ssets/StreamingAssets/
+Botcamp/[Aa]ssets/StreamingAssets.meta
+Botcamp/[Aa]ssets/TextMesh Pro/
+Botcamp/[Aa]ssets/TextMesh Pro.meta
